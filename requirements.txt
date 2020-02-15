@@ -4,6 +4,5 @@ projectapp
 projectname
 rango
 db.sqlite3
-manage.py
-populate_rango.py
+bot.py
 requirements.txt
