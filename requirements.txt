@@ -1,8 +1,0 @@
-.git
-.idea
-projectapp
-projectname
-rango
-db.sqlite3
-bot.py
-requirements.txt
